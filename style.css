@@ -1,0 +1,160 @@
+body {
+  background-color: rgb(34, 34, 34);
+  color: whitesmoke;
+  font-family: coolvetica ;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+section{
+  padding: 75px 16.7%;
+}
+
+#title{
+  flex-direction: column;
+  line-height: 10px;
+}
+
+ul{
+font-size: 120%;
+  font-family: coolvetica ;
+}
+
+li{
+  display: inline-block;
+  margin: 20px;
+}
+
+/* BARRA */
+a{
+color: whitesmoke;
+}
+a:hover{
+  color: cadetblue;
+  transition: 0.3s all;
+}
+
+h1{
+font-weight: 200;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+
+
+/* INOVACAO, IND. ÓPTICA E RECONHEC FACIAL */
+.inicio-text h2{
+  font-size: 56px;
+  line-height: 10px;
+  font-family: coolvetica;
+}
+
+spam{
+  color: cadetblue
+}
+
+.inicio-text spam3{
+  color: whitesmoke;
+  line-height: 40px;  
+}
+
+.inicio-text spam2{
+  color: cadetblue;
+  line-height: 50px;  
+}
+
+.inicio-text p{
+  color: whitesmoke;
+  line-height: 20px;
+  max-width: 500px;
+  font-family: coolvetica condensed rg ; 
+}
+
+
+/* IMAGEM PRINCIPAL */
+img{
+width: 500px;
+padding-left: 70px;
+}
+
+
+
+
+/* IDEIA */
+
+/* IMAGEM IDEIA */
+
+.ideia{
+background-color: #314549 ;
+}
+
+.ideia-imagem{
+  max-width: 100%;
+  width: 550px;
+  height: auto;
+}
+.ideia-texto h2{
+  font-size: 2rem;
+  color: cadetblue;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+ideia-texto p{
+  font-size: 1,5rem;
+  color: whitesmoke;
+  line-height: 1.7;
+  margin-bottom: 20px; 
+}
+
+
+
+/* NICHO */
+
+.nicho-texto h2{
+  font-size: 2rem;
+  color: cadetblue;
+  font-weight: 600;
+  margin-bottom: 15px;
+  
+}
+
+.nicho-texto h3{
+  font-size: 1,5rem;
+  color: whitesmoke;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+
+
+/* PROPOSTA DE VALOR */
+
+.valor-texto h2{
+  font-size: 2rem;
+  color: cadetblue;
+  font-weight: 600;
+  margin-bottom: 15px;
+  
+}
+
+
+/* PROBLEMA */
+
+.problema-texto h2{
+  font-size: 2rem;
+  color: cadetblue;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
