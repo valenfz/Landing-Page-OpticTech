@@ -1,0 +1,30 @@
+/* COD PARA VERSÃO MOBILE */
+
+
+@media screen and (max-widht: 760px)
+{
+
+header{
+  flex-direction: column;
+
+}
+  
+main{
+  flex-direction: column;
+}
+
+h2{
+  font-size: 38px; 
+}
+
+img{
+  display: none;
+}
+
+ul{
+  text-align: center;
+}
+
+
+
+}
