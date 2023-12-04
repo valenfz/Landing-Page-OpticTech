@@ -1,9 +1,11 @@
 # OpticTech - Landing Page
 
+Valentina Zanette, Vitor Katicipis e André Luiz
+
 [https://optictech.valenfzzz.repl.co/](url)
 
 PMI II
-Feito com Html, CSS e JavaScript | Website desenvolvido para o projeto multidisciplinar integrador para apresentação na 12ª JIIC da faculdade CESUSC
+Feito com Html, CSS e JavaScript | Website desenvolvido para o projeto multidisciplinar integrador para apresentação na 13° JIIC da faculdade CESUSC
 
 CANVAS: https://www.canva.com/design/DAFiirErS50/3zKMlngp9XfWjfvKwBO4pQ/edit?utm_content=DAFiirErS50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
